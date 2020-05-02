@@ -408,8 +408,8 @@ h6, .h6 {
 }
 
 .display-3 {
-  font-size: 4.5rem;
-  font-weight: 300;
+  font-size: 71px;
+  font-weight: bold;
   line-height: 1.2;
 }
 
@@ -3838,7 +3838,7 @@ input[type="button"].btn-block {
   background-color: #e9ecef;
 }
 
-.custom-file-input:lang(en) ~ .custom-file-label::after {
+.custom-file-input:lang(pt) ~ .custom-file-label::after {
   content: "Browse";
 }
 
@@ -5088,6 +5088,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   margin-bottom: 2rem;
   background-color: #e9ecef;
   border-radius: 0.3rem;
+  background-image: url(../img/brianda.jpg);
 }
 
 @media (min-width: 576px) {
